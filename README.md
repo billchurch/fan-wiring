@@ -19,3 +19,4 @@ This is the generic pinout I've used before. So far every fan I've come across f
 
 ![img_0216 2](https://user-images.githubusercontent.com/1668075/53209348-33e82180-3608-11e9-87bc-a3c6258f45dc.JPG)
 
+![img_3605](https://user-images.githubusercontent.com/1668075/53495726-82654800-3a6e-11e9-95df-91de09d70ccd.JPG)
